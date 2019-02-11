@@ -1,8 +1,0 @@
-{
-	"BuildId": "4541578",
-	"Modules": 
-	{
-		"PointCloudEditor": "UE4Editor-PointCloudEditor.dll",
-		"PointCloudRuntime": "UE4Editor-PointCloudRuntime.dll"
-	}
-}
