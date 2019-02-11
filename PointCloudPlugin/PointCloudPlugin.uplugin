@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.5.3",
+	"FriendlyName": "Point Cloud Plugin",
+	"Description": "Adds support for importing, processing and rendering of point clouds.",
+	"Category": "Rendering",
+	"CreatedBy": "Michal Cieciura",
+	"CreatedByURL": "http://pointcloudplugin.com",
+	"DocsURL": "http://pointcloudplugin.com",
+	"MarketplaceURL": "",
+	"SupportURL": "http://pointcloudplugin.com",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PointCloudRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "PointCloudEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

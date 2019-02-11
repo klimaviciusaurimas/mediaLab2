@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.PointCloudRuntime.cpp.obj",
+		"Module.PointCloudRuntime.gen.cpp.obj"
+	]
+}
